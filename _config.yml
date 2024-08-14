@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xinhui (Jason) Chen / Personal Homepage"
+title                    : "Xinhui CHEN / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Xinhui (Jason) Chen"
+name                     : &name "Xinhui CHEN"
 description              : &description "a second-year postgraduate student at South China University of Technology"
 url                      : https://jasonchenxh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "jasonchenxh/jasonchenxh.github.io"
 author:
   # Biographic information
   avatar           : "xhchen.png"
-  name             : "Xinhui (Jason) CHEN"
+  name             : "Xinhui CHEN"
   pronouns         : # example: "she/her"  
-  bio              : "South China University of Technology"
+  bio              : "M.Eng., South China University of Technology"
   location         : "Guangzhou, CN"
   employer         : # "Red Brick University"
   uri              : # URL
